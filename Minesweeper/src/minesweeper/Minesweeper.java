@@ -6,7 +6,7 @@ import java.util.Scanner;
  * Minesweeper playable through Eclipse IDE Console
  * 
  * Purpose:
- *  - Practice with OOP
+ *  - Practice with OOP 
  * 	- Practice thinking about larger programs
  * 	- Practice with version control on Github
  * 
