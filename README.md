@@ -1,3 +1,2 @@
 # minesweeper
-
-# See description in Minesweeper.java file
+See description in Minesweeper.java file
